@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1678184080 source:f:\fii\poo\lab1\num_sum\main.cpp
+	<iostream>
+	<cstdio>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1678186653 source:f:\fii\poo\lab1\cuv_sort\main.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+
