@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1678625494 source:f:\fii\poo\lab3\canvas\canvas.cpp
+	"Canvas.h"
+
+1678551749 f:\fii\poo\lab3\canvas\canvas.h
+	<cstdlib>
+	<iostream>
+
+1678625475 source:f:\fii\poo\lab3\canvas\main.cpp
+	<iostream>
+	"Canvas.h"
+

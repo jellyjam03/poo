@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1678545233 source:f:\fii\poo\lab3\math_class\main.cpp
+	<iostream>
+	"Math.h"
+
+1678545236 f:\fii\poo\lab3\math_class\math.h
+	"Global.h"
+	<cstdarg>
+	<algorithm>
+
+1678542949 f:\fii\poo\lab3\math_class\global.h
+
+1678543162 source:f:\fii\poo\lab3\math_class\math.cpp
+	"Math.h"
+
