@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1678199782 source:f:\fii\poo\lab2\student\global.cpp
+	"Global.h"
+
+1678199027 f:\fii\poo\lab2\student\global.h
+	"Student.h"
+
+1678199076 f:\fii\poo\lab2\student\student.h
+
+1678200191 source:f:\fii\poo\lab2\student\main.cpp
+	<iostream>
+	"Global.h"
+
+1678198692 source:f:\fii\poo\lab2\student\student.cpp
+	"Student.h"
+

@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1678192031 source:f:\fii\poo\lab2\nmblist\main.cpp
+	<iostream>
+	"Numberlist.h"
+
+1678192569 f:\fii\poo\lab2\nmblist\numberlist.h
+	<iostream>
+
+1678192576 source:f:\fii\poo\lab2\nmblist\numberlist.cpp
+	"Numberlist.h"
+
