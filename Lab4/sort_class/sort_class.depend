@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1678909822 source:f:\pc\contests\s3\sort_class\main.cpp
+	<iostream>
+	"Sort.h"
+
+1678902487 f:\pc\contests\s3\sort_class\sort.h
+	<cstdlib>
+	<ctime>
+	<cstdarg>
+	<cstring>
+	<iostream>
+
+1678909852 source:f:\pc\contests\s3\sort_class\sort.cpp
+	"Sort.h"
+
+1678909875 source:f:\fii\poo\lab4\sort_class\main.cpp
+	<iostream>
+	"Sort.h"
+
+1678902487 f:\fii\poo\lab4\sort_class\sort.h
+	<cstdlib>
+	<ctime>
+	<cstdarg>
+	<cstring>
+	<iostream>
+
+1678909852 source:f:\fii\poo\lab4\sort_class\sort.cpp
+	"Sort.h"
+
