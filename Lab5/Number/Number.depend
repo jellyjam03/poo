@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1679411018 source:f:\fii\poo\lab5\number\main.cpp
+	"Number.h"
+
+1679410085 f:\fii\poo\lab5\number\number.h
+	<cstring>
+	<cstdio>
+	<iostream>
+
+1679413739 source:f:\fii\poo\lab5\number\number.cpp
+	"Number.h"
+
