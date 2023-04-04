@@ -1,0 +1,4 @@
+﻿  Source.cpp
+F:\FII\poo\Lab7\Celsius\Celsius\Source.cpp(27,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\FII\poo\Lab7\Celsius\Celsius\Source.cpp(40,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Celsius.vcxproj -> F:\FII\poo\Lab7\Celsius\x64\Debug\Celsius.exe

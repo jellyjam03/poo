@@ -1,0 +1,26 @@
+﻿  Source.cpp
+F:\FII\poo\Lab7\MyTree\MyTree\Tree.h(127,1): warning C4334: '<<': result of 32-bit shift implicitly converted to 64 bits (was 64-bit shift intended?)
+F:\FII\poo\Lab7\MyTree\MyTree\Tree.h(115,1): message : while compiling class template member function 'Tree<int> *Tree<int>::AddNode(T)'
+          with
+          [
+              T=int
+          ]
+F:\FII\poo\Lab7\MyTree\MyTree\Source.cpp(11,12): message : see reference to function template instantiation 'Tree<int> *Tree<int>::AddNode(T)' being compiled
+          with
+          [
+              T=int
+          ]
+F:\FII\poo\Lab7\MyTree\MyTree\Source.cpp(10,31): message : see reference to class template instantiation 'Tree<int>' being compiled
+F:\FII\poo\Lab7\MyTree\MyTree\Tree.h(214,1): warning C4554: '<<': check operator precedence for possible error; use parentheses to clarify precedence
+F:\FII\poo\Lab7\MyTree\MyTree\Tree.h(207,1): message : while compiling class template member function 'Tree<int> *Tree<int>::Insert(int,T)'
+          with
+          [
+              T=int
+          ]
+F:\FII\poo\Lab7\MyTree\MyTree\Source.cpp(15,11): message : see reference to function template instantiation 'Tree<int> *Tree<int>::Insert(int,T)' being compiled
+          with
+          [
+              T=int
+          ]
+F:\FII\poo\Lab7\MyTree\MyTree\Tree.h(214,1): warning C4334: '<<': result of 32-bit shift implicitly converted to 64 bits (was 64-bit shift intended?)
+  MyTree.vcxproj -> F:\FII\poo\Lab7\MyTree\x64\Debug\MyTree.exe
