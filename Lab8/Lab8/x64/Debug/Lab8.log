@@ -1,0 +1,6 @@
+﻿  main.cpp
+F:\FII\Anul 1\Sem2\poo\Lab8\Lab8\main.cpp(36,2): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+F:\FII\Anul 1\Sem2\poo\Lab8\Lab8\main.cpp(38,28): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+F:\FII\Anul 1\Sem2\poo\Lab8\Lab8\main.cpp(43,38): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+F:\FII\Anul 1\Sem2\poo\Lab8\Lab8\main.cpp(44,34): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Lab8.vcxproj -> F:\FII\Anul 1\Sem2\poo\Lab8\x64\Debug\Lab8.exe
